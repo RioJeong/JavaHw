@@ -1,3 +1,3 @@
 # JavaHw
 
-A Java practices in a school lecture
+The Java practices in a school lecture
